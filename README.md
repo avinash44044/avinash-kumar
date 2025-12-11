@@ -1,5 +1,5 @@
 # avinash-kumar
-coding Assignment
+coding Assignment in java Programming Language 
 
 
 -All inputs are taken as strings, and then converted into integers inside the code.
